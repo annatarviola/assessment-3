@@ -36,3 +36,32 @@ input {
 img {
 	max-width: 300px;
 }
+
+.profile-header {
+	text-align: center;
+}
+
+#lily-photo {
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.profile-info {
+	display: flex;
+	flex-flow: row wrap;
+	padding: 10px;
+	justify-content: center;
+	
+}
+
+.profile-info h3 {
+	text-align: center;
+	margin: 5px;
+}
+
+.profile-info ul {
+	margin-top: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
