@@ -95,3 +95,12 @@ img {
 	margin-right: auto;
 	margin-bottom: 20px;
 }
+
+#randomRestaurant{
+	display: block;
+	border-radius: 4px;
+	border-color: #897a7a;
+	font-size: 16px;
+	margin: 20px;
+	padding: 20px;
+}
